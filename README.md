@@ -34,7 +34,7 @@ Automation framework for SAP Fiori applications using Robot Framework + Playwrig
 🔹 [**OrangeHRM Test Automation**](https://github.com/turkpencesii-ops/orangehrm-test-automation)  
 UI Test Automation using Selenium and Python (PyTest framework).  
 
-🔹 [**Spring PetClinic Tests**](https://github.com/turkpencesii-ops/petclinic-test)  
+🔹 [**Spring PetClinic Tests**](https://github.com/turkpencesii-ops/petclinic-testautomation)  
 Automated UI tests with Selenium and Java, following POM pattern.
 
 ---
