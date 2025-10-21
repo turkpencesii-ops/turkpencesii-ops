@@ -31,7 +31,7 @@ Passionate about **SAP Test Management, Automation Frameworks, and AI in Testing
 🔹 [**SAP Fiori Login Automation**](https://github.com/turkpencesii-ops/sap-fiori-login-tests)  
 Automation framework for SAP Fiori applications using Robot Framework + Playwright.  
 
-🔹 [**OrangeHRM Test Automation**](https://github.com/turkpencesii-ops/orangehrm-test-automation)  
+🔹 [**OrangeHRM Test Automation**](https://github.com/turkpencesii-ops/orangehrm-testautomation)  
 UI Test Automation using Selenium and Python (PyTest framework).  
 
 🔹 [**Spring PetClinic Tests**](https://github.com/turkpencesii-ops/petclinic-testautomation)  
