@@ -37,7 +37,7 @@ UI Test Automation using Selenium and Python (PyTest framework).
 🔹 [**Spring PetClinic Tests**](https://github.com/turkpencesii-ops/petclinic-testautomation)  
 Automated UI tests with Selenium and Java, following POM pattern.
 
-🔹 [E-Commerce C# Automation](https://github.com/turkpencesii/demo-ecommerce-csharp-automation)  
+🔹 [E-Commerce C# Automation](https://github.com/turkpencesii-ops/demo-ecommerce-csharp-automation)  
 *Demo e-commerce project built with C#, Selenium WebDriver, and NUnit, following Page Object Model (POM) design.*
 
 
