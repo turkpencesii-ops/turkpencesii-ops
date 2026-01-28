@@ -40,6 +40,9 @@ Automated UI tests with Selenium and Java, following POM pattern.
 🔹 [E-Commerce C# Automation](https://github.com/turkpencesii-ops/demo-ecommerce-csharp-automation)  
 *Demo e-commerce project built with C#, Selenium WebDriver, and NUnit, following Page Object Model (POM) design.*
 
+🔹 [API Test Automation](https://github.com/turkpencesii-ops/api-testing-demo-restassassured)
+API Test Automation Framework with Java, Maven and Rest Assured
+
 
 ---
 
