@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Burak Alper Türkpencesi
 
 🚀 **Senior Test Automation Engineer** with 10+ years of experience in Quality Assurance, Test Automation, and CI/CD pipelines.  
-💡 Strong focus on **SAP Testing, Playwright, Robot Framework, Selenium, Tosca, and API Automation**.
+💡 Tricentis Tosca certified · Selenium (Java) · Playwright · REST Assured · CI/CD
 
-📍 Based in Heidelberg, Germany 🇩🇪  
+📍 Based in Istanbul · Open to relocation (DACH)  
 🎯 Career focus: **SAP Test Management, modern test automation frameworks, and quality strategy**.
 
 ---
