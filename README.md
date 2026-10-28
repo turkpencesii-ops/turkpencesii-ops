@@ -4,7 +4,7 @@
 💡 Tricentis Tosca certified · Selenium (Java) · Playwright · REST Assured · CI/CD
 
 📍 Based in Istanbul · Open to relocation (DACH)  
-🎯 Career focus: **SAP Test Management, modern test automation frameworks, and quality strategy**.
+
 
 ---
 
