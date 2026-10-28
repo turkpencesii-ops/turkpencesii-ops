@@ -2,8 +2,11 @@ Hi, I'm Burak Alper Türkpencesi
 
 **Senior QA Automation Engineer** with 10+ years of experience in quality assurance, test automation and CI/CD.
 
-💡 Tricentis Tosca certified · Selenium (Java) · Playwright · REST Assured · Robot Framework  
+Focus: Test automation with Tricentis Tosca and Java (Selenium, Selenide, Cucumber/BDD), API testing (REST Assured, Postman), CI/CD (Jenkins, GitLab)
+
+
 📍 Based in Istanbul · Open to relocation (DACH)
+
 
 ---
 
